@@ -98,9 +98,6 @@
 </p>
 
 
-<p align="center">
-  <img width="495" src="https://ghstats.dev/api/langs?username=plkla&amp;theme=tokyonight&amp;layout=compact&amp;max_langs=8&amp;bg=0D1117&amp;text=C9D1D9&amp;title_color=58A6FF&amp;border_color=30363D&amp;border_radius=8" alt="Języki w publicznych repozytoriach użytkownika plkla" />
-</p>
 
 
 <h2>
